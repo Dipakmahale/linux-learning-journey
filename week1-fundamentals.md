@@ -3,9 +3,7 @@ Over the next 6 weeks, I’m diving deep into Linux as the foundation of my DevO
 
 This repo contains:  
 - 📚 Weekly notes (concepts, commands, and learnings)  
-- 🐧 Shell scripts I practice along the way  
-- 📝 Cheat sheets for quick reference  
-- ⚡ Mini-projects to apply what I learn  
+- 🐧 Shell scripts I practice along the way    
 
 I’m also sharing my progress weekly on LinkedIn and Hashnode — learning in public keeps me accountable and connected with the community.  
 
