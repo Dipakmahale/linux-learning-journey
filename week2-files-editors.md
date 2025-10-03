@@ -14,3 +14,10 @@ This week, I focused on **Linux file structure, Vim editor, redirection, links, 
 /var   → logs, ftp, webserver files (sticky bit: 1777)
 /tmp   → temp files (world writable, sticky bit)
 /proc  → kernel-related info (virtual, size=0)
+
+### Basic Commands
+cp
+mv
+mkdir
+rm
+rmdir
