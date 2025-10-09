@@ -150,8 +150,7 @@ SSH and package management were especially exciting because they bring automatio
 ---
 
 ## 🧰 Resources  
-
-- [Red Hat Linux Administration Guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/system_design_guide/index)  
+ 
 - [Linuxize — User and Group Management](https://linuxize.com/post/how-to-add-user-to-group-in-linux/)  
 - [TutorialsPoint — Linux Processes](https://www.tutorialspoint.com/unix/unix-processes.htm)  
 - [GeeksforGeeks — Log Management Basics](https://www.geeksforgeeks.org/techtips/how-to-manage-logs-in-linux/?utm_source=chatgpt.com)  
