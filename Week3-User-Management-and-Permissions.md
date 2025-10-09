@@ -1,7 +1,5 @@
 # 🧩 Week 3: User Management, Permissions, Processes & More  
 
-This week, I explored some of the most powerful Linux administration concepts that are core to every DevOps engineer’s toolkit.  
-
 ---
 
 ## 👥 User Management  
