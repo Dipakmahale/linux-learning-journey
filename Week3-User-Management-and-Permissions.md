@@ -154,6 +154,6 @@ SSH and package management were especially exciting because they bring automatio
 - [Red Hat Linux Administration Guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/system_design_guide/index)  
 - [Linuxize — User and Group Management](https://linuxize.com/post/how-to-add-user-to-group-in-linux/)  
 - [TutorialsPoint — Linux Processes](https://www.tutorialspoint.com/unix/unix-processes.htm)  
-- [DigitalOcean — Log Management Basics](https://www.digitalocean.com/community/tutorials/how-to-view-and-configure-linux-logs)  
+- [GeeksforGeeks — Log Management Basics](https://www.geeksforgeeks.org/techtips/how-to-manage-logs-in-linux/?utm_source=chatgpt.com)  
 - [SSH Key Authentication](https://www.ssh.com/academy/ssh/keygen)  
-- [YUM vs RPM Explained](https://phoenixnap.com/kb/difference-between-yum-and-rpm)  
+- [YUM vs RPM Explained](https://phoenixnap.com/kb/rpm-vs-yum?utm_source=chatgpt.com) 
