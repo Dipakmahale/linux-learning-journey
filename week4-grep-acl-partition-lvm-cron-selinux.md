@@ -60,8 +60,7 @@ systemctl daemon-reload
 
 📦 LVM (Logical Volume Management)
 
-Why LVM?
-It provides resizing capability, snapshots, and flexible storage management.
+Why LVM? - It provides resizing capability, snapshots, and flexible storage management.
 
 Steps:
 lsblk
@@ -102,12 +101,10 @@ free -m
 
 🕒 Scheduling Tasks (cron)
 Cron fields:
-
 * * * * *
 → minute, hour, day of month, month, day of week
 
 Example:
-
 Backup /root every Sunday of Jan & Mar at 11 PM
 
 crontab -e
@@ -115,27 +112,18 @@ crontab -e
 crontab -l
 
 🔒 SELinux (Security-Enhanced Linux)
-
 SELinux enforces strict access control via MAC (Mandatory Access Control).
 
-Goals:
-
-Protect user data from services like httpd, sshd, crond.
+Goals:- Protect user data from services like httpd, sshd, crond.
 
 Policy Types:
-
 Targeted → confines key services
-
 Strict → confines everything
-
 MLS → multi-level (gov/military-grade)
 
 Modes:
-
 Enforcing → blocks and logs
-
 Permissive → logs only (debug)
-
 Disabled → turns SELinux off
 
 Commands:
@@ -149,23 +137,15 @@ ps -eZ | grep sshd
 vim /etc/selinux/config
 
 ⚙️ Challenges I Faced
-
 Remembering grep options for complex searches
-
 Understanding difference between MBR and GPT layouts
-
 Troubleshooting mounting errors in /etc/fstab
-
 Configuring SELinux modes correctly for troubleshooting
 
 💡 Resources
-
 Red Hat — Understanding ACLs
-
 Linux Handbook — LVM Explained
-
 Cron Job Basics (TutorialsPoint)
-
 Red Hat — SELinux Guide
 Linux Handbook — LVM Explained
 
