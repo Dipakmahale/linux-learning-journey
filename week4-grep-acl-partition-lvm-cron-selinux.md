@@ -148,9 +148,6 @@ Linux Handbook — LVM Explained
 Cron Job Basics (TutorialsPoint)
 Red Hat — SELinux Guide
 Linux Handbook — LVM Explained
-
 TutorialsPoint — Cron Job Basics
-
 Red Hat — SELinux Guide
 
-Red Hat — SELinux Guide
