@@ -146,5 +146,5 @@ Practicing different loop structures efficiently
 📚 Resources
 GNU Bash Manual — Shell Basics
 GeeksforGeeks — Bash Scripting Tutorial
-Red Hat — Bash Scripting Essentials
+
 
