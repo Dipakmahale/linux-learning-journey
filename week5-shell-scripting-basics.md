@@ -143,3 +143,8 @@ Understanding difference between local and environment variables
 Debugging missing spaces in if–else blocks
 Practicing different loop structures efficiently
 
+📚 Resources
+GNU Bash Manual — Shell Basics
+GeeksforGeeks — Bash Scripting Tutorial
+Red Hat — Bash Scripting Essentials
+
